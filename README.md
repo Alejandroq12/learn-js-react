@@ -3,7 +3,7 @@
 
 # 6-Month Learning Plan: JavaScript and React
 
-Created by [Julio Quezada](www.julioquezada.com)
+Created by [Julio Quezada](https://www.julioquezada.com)
 
 ## Weeks 1-4: JavaScript Fundamentals
 
