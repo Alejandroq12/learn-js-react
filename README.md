@@ -57,14 +57,15 @@
 2. Learn Redux for state management in React applications:
    - [Redux - Official Documentation](https://redux.js.org/introduction/getting-started)
    - [FreeCodeCamp - Redux Course](https://www.freecodecamp.org/learn/front-end-libraries/redux/)
-   - YouTube: [The Net Ninja - Redux Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+   - YouTube: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw&ab_channel=freeCodeCamp.org)
 
 ## Week 19: React-Redux
 
 1. Dedicate 10 hours per day for learning and practicing.
 2. Learn React-Redux for connecting Redux with your React applications:
    - [React-Redux - Official Documentation](https://react-redux.js.org/introduction/getting-started)
-   - YouTube: [Codevolution - React Redux Tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+    - YouTube: [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ&ab_channel=DaveGray)
+
 
 ## Weeks 20-21: React and Redux Projects
 
@@ -72,15 +73,15 @@
 2. Build at least 2-3 React and Redux projects to solidify your understanding of React and Redux concepts.
 3. Resources for project ideas:
    - [Medium - 15 React and Redux Project Ideas](https://medium.com/better-programming/15-react-redux-projects-to-enhance-your-portfolio-d9f5ad2b3f5f)
-   - [React-Redux Projects](https://www.udemy.com/topic/react-redux/)
+   - [React-Redux Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/)
 
 ## Weeks 22-23: React Ecosystem and Libraries
 
 1. Dedicate 10 hours per day for learning and practicing.
 2. Learn about the React ecosystem and popular libraries, such as:
-   - React Router: [React Router - Official Documentation](https://reactrouter.com/web/guides/quick-start)
+   - React Router: [React Router - Official Documentation](https://reactrouter.com/en/6.11.1/start/tutorial)
    - Material-UI: [Material-UI - Official Documentation](https://mui.com/getting-started/usage/)
-   - Styled-components: [Styled-components - Official Documentation](https://styled-components.com/docs)
+   - Styled-components: [Styled-components - Official Documentation](https://styled-components.com/docs/basics#getting-started)
 
 ## Weeks 24-26: Final Project and Portfolio
 
