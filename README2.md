@@ -69,5 +69,5 @@
 1. Dedicar 10 horas al día para construir un proyecto final y prepararse para entrevistas.
 2. Construir un proyecto final que demuestre tus habilidades en JavaScript, React y Redux.
 3. Prepararse para entrevistas técnicas y revisar conceptos clave:
-   - [FreeCodeCamp - Guía de Preparación para Entrevistas de JavaScript](https://www.freecodecamp.org/espanol/news/guia-de-preparacion-para-entrevistas-de-javascript/)
-   - [LeetCode - Problemas de Entrevista de JavaScript](https://leetcode.com/tag/javascript/)
+   - [FreeCodeCamp - Guía de Preparación para Entrevistas de JavaScript](https://www.freecodecamp.org/espanol/learn/coding-interview-prep/#algorithms)
+   - [LeetCode - Problemas de Entrevista de JavaScript](https://leetcode.com/problemset/javascript/) (Inglés)
