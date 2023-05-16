@@ -55,3 +55,19 @@
    - [Redux - Documentación oficial](https://es.redux.js.org/)
    - [FreeCodeCamp - Curso de Redux](https://www.freecodecamp.org/espanol/learn/front-end-libraries/redux/)
    - YouTube: [Aprende React Redux de una manera sencilla siguiendo este tutorial](https://www.youtube.com/watch?v=SFyAZFrjDBA&ab_channel=TheFullstackDevs)
+
+## Semanas 21-22: Pruebas en React
+
+1. Dedicar 10 horas al día para aprender y practicar.
+2. Aprender a realizar pruebas en aplicaciones React:
+   - [React Testing Library - Documentación oficial](https://testing-library.com/docs/react-testing-library/intro/)
+   - YouTube: [TESTING en REACT 🧪 ¡Aprende DESDE CERO! Con react-testing-library y Jest (FullStack Bootcamp JS)](https://www.youtube.com/watch?v=KYjjtRgg_H0&ab_channel=midudev)
+   - YouTube: [Introducción a Unit Testing en React con Jest](https://www.youtube.com/watch?v=n5qbzhZUMsY&ab_channel=Garajedeideas)
+
+## Semanas 23-24: Proyecto Final y Preparación para Entrevistas
+
+1. Dedicar 10 horas al día para construir un proyecto final y prepararse para entrevistas.
+2. Construir un proyecto final que demuestre tus habilidades en JavaScript, React y Redux.
+3. Prepararse para entrevistas técnicas y revisar conceptos clave:
+   - [FreeCodeCamp - Guía de Preparación para Entrevistas de JavaScript](https://www.freecodecamp.org/espanol/news/guia-de-preparacion-para-entrevistas-de-javascript/)
+   - [LeetCode - Problemas de Entrevista de JavaScript](https://leetcode.com/tag/javascript/)
