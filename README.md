@@ -39,9 +39,9 @@
 
 1. Dedicate 10 hours per day for learning and practicing.
 2. Learn intermediate React concepts:
-   - [React - Official Advanced Guides](https://reactjs.org/docs/hooks-intro.html)
+   - [React - Official Advanced Guides](https://react.dev/reference/react)
    - [FreeCodeCamp - React Course](https://www.freecodecamp.org/learn/front-end-libraries/react/)
-   - YouTube: [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
+   - YouTube: [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=4baq00tHfmA&ab_channel=Academind)
 
 ## Weeks 15-16: React Projects
 
