@@ -48,6 +48,7 @@ Created by [Julio Quezada](https://www.julioquezada.com)
 3. Recursos para ideas de proyectos:
    - [FreeCodeCamp - Proyectos de React](https://www.freecodecamp.org/es/news/5-proyectos-de-react-que-necesitas-en-tu-portafolio/)
    - YouTube: [5 proyectos COMPLETOS en REACT JS](https://www.youtube.com/watch?v=oT-feDPuJmk&ab_channel=VidaMRR-Programacionweb)
+   - YouTube: [5 PROYECTOS COMPLETOS de REACT JS AVANZADOS](https://www.youtube.com/watch?v=4V7rfombLkc&ab_channel=VidaMRR-Programacionweb)
 
 ## Semanas 17-18: Redux
 
