@@ -3,6 +3,8 @@
 
 # 6-Month Learning Plan: JavaScript and React
 
+Created by [Julio Quezada](www.julioquezada.com)
+
 ## Weeks 1-4: JavaScript Fundamentals
 
 1. Dedicate 10 hours per day for learning and practicing.
