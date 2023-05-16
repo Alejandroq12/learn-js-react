@@ -1,6 +1,7 @@
 # Plan de Aprendizaje de 6 Meses: JavaScript y React
 
 ## Semanas 1-4: Fundamentos de JavaScript
+Created by [Julio Quezada](https://www.julioquezada.com)
 
 1. Dedicar 10 horas al día para aprender y practicar.
 2. Aprender los conceptos básicos de JavaScript:
